@@ -1,3 +1,5 @@
+Project can be found here: https://github.com/MiloS-C/Covid19_Flask_app
+
 To start covid_web_app:
 	insert your newsapi.org key in the api_key slot found in the config file
 
