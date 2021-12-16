@@ -1,0 +1,10 @@
+{
+    "Covid_data": {
+        "local_7day_av": 108,
+        "location": "Exeter",
+        "national_7day_av": 43732,
+        "national_deaths_total": 127525,
+        "national_hospital_cases_current": 6223,
+        "national_location": "England"
+    }
+}

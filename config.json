@@ -1,0 +1,23 @@
+{
+    "__Note1__": "csv reader data:",
+
+	"new_daily_cases_row": 7,
+	"current_hospital_cases_row": 6,
+	"deaths_total_row": 5,
+
+
+    
+    "__Note2__": "web app data:",
+
+    "nation" : "England",
+    "location" : "Exeter",
+    "location_type" : "ltla",
+
+    "api_key" : "PLEASE ENTER API KEY HERE",
+    "domains" : "bbc.co.uk",
+    "skip_lines_api" : "3",
+    "age_of_articles_days" : "2",
+    "num_of_articles" : "5",
+
+    "image" : "image.jpg"
+}
